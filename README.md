@@ -4,4 +4,3 @@ allowing you to visualize, de-mystify and choose the FOR conditions/arguements p
 - Has adjustments for input-cmd, skip, delimiters, targeted row/column, testing and creation of the loop
 - A rudimentary/complicated tool, but without any visual so are FOR loops
 ![Alt text](/png/FOR_Sight1.png "FOR-Sight")
-- Eventually this will be made into a stand-alone. Currently in the tasks section of ShaZZam
